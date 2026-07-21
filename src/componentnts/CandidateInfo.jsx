@@ -11,7 +11,7 @@ const CandidateInfo = () => {
                         <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>Roll number</p>
                     </td>
                     <td style={{ width: '89pt', border: '1pt solid #CCCCCC' }}>
-                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}>3903317034
+                        <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}>3903317035
 
                         </p>
                     </td>
