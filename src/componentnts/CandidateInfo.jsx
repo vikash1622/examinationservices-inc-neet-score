@@ -55,7 +55,7 @@ const CandidateInfo = () => {
                     </td>
                     <td style={{ width: '89pt', border: '1pt solid #CCCCCC' }}>
                         <p style={{ textIndent: '0pt', textAlign: 'left' }}><br /></p>
-                        <p className="s2" style={{ paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}> KAMLESH  </p>
+                        <p className="s2" style={{ paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}>MANJU DEVI</p>
                     </td>
                     <td style={{ width: '96pt', border: '1pt solid #CCCCCC' }}>
                         <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '2pt', textIndent: '0pt', lineHeight: '122%', textAlign: 'left' }}>Date of birth (DD/MM/YYYY)</p>
