@@ -1,5 +1,5 @@
 import React from 'react'
-import CanditateIMage from "../assets/candidate.PNG"
+import CanditateIMage from "../assets/candidate.png"
 import Qrcode from "../assets/qr-code.png"
 
 const CandidateInfo = () => {
